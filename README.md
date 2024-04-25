@@ -11,7 +11,7 @@ I have also contributed 8 pages to the [Lethal Company Modding Wiki](https://let
 | **Language** | C#, Python, JavaScript, HTML, CSS |
 | **OS** | Linux 🩷🐧, Windows |
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamunii&show_icons=true&theme=omni)  
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamunii&show_icons=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamunii&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 
 [<img src='https://cdn.simpleicons.org/youtube/white' alt='YouTube' height='40'>](https://www.youtube.com/@Hamunii-code)
